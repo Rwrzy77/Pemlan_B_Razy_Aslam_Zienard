@@ -172,10 +172,6 @@ public class MainFrame extends javax.swing.JFrame {
         tableClients.setFont(new java.awt.Font("Arial", 0, 12)); // NOI18N
         tableClients.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null, null},
-                {null, null, null, null},
-                {null, null, null, null},
-                {null, null, null, null}
             },
             new String [] {
                 "Name", "Email", "Phone", "Address"
